@@ -1,0 +1,692 @@
+{
+  "res://assets/sprites/bullet_dot.png": {
+    "128": {
+      "file": "dot_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "dot_128.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "dot_128.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "dot_128.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "dot_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "dot_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "dot_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/sprites/bullet_orb.png": {
+    "128": {
+      "file": "orb_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "orb_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "orb_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "orb_256.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "orb_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "orb_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "orb_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_blood_arrow.png": {
+    "128": {
+      "file": "blood_arrow_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "blood_arrow_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "blood_arrow_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "blood_arrow_320.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "blood_arrow_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "blood_arrow_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "blood_arrow_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_decor_grave_dust.png": {
+    "128": {
+      "file": "decor_grave_dust_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "decor_grave_dust_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "decor_grave_dust_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "decor_grave_dust_320.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "decor_grave_dust_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "decor_grave_dust_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "decor_grave_dust_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_decor_higanbana.png": {
+    "128": {
+      "file": "decor_higanbana_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "decor_higanbana_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "decor_higanbana_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "decor_higanbana_320.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "decor_higanbana_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "decor_higanbana_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "decor_higanbana_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_decor_lantern.png": {
+    "128": {
+      "file": "decor_lantern_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "decor_lantern_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "decor_lantern_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "decor_lantern_320.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "decor_lantern_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "decor_lantern_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "decor_lantern_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_decor_ripple.png": {
+    "128": {
+      "file": "decor_ripple_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "decor_ripple_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "decor_ripple_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "decor_ripple_320.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "decor_ripple_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "decor_ripple_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "decor_ripple_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_decor_soul_core.png": {
+    "128": {
+      "file": "decor_soul_core_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "decor_soul_core_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "decor_soul_core_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "decor_soul_core_320.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "decor_soul_core_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "decor_soul_core_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "decor_soul_core_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_decor_wisp.png": {
+    "128": {
+      "file": "decor_wisp_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "decor_wisp_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "decor_wisp_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "decor_wisp_320.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "decor_wisp_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "decor_wisp_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "decor_wisp_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_ember.png": {
+    "128": {
+      "file": "ember_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "ember_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "ember_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "ember_320.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "ember_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "ember_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "ember_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_fire_blue.png": {
+    "128": {
+      "file": "fire_blue_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "fire_blue_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "fire_blue_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "fire_blue_256.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "fire_blue_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "fire_blue_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "fire_blue_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_fire_green.png": {
+    "128": {
+      "file": "fire_green_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "fire_green_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "fire_green_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "fire_green_256.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "fire_green_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "fire_green_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "fire_green_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_fire_purple.png": {
+    "128": {
+      "file": "fire_purple_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "fire_purple_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "fire_purple_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "fire_purple_256.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "fire_purple_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "fire_purple_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "fire_purple_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_hellrock_large.png": {
+    "128": {
+      "file": "hellrock_large_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "hellrock_large_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "hellrock_large_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "hellrock_large_320.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "hellrock_large_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "hellrock_large_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "hellrock_large_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_hellrock_small.png": {
+    "128": {
+      "file": "hellrock_small_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "hellrock_small_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "hellrock_small_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "hellrock_small_320.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "hellrock_small_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "hellrock_small_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "hellrock_small_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_hellsword.png": {
+    "128": {
+      "file": "hellsword_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "hellsword_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "hellsword_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "hellsword_320.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "hellsword_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "hellsword_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "hellsword_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_holy_arrow.png": {
+    "128": {
+      "file": "holy_arrow_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "holy_arrow_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "holy_arrow_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "holy_arrow_320.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "holy_arrow_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "holy_arrow_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "holy_arrow_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_orb_azure.png": {
+    "128": {
+      "file": "orb_azure_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "orb_azure_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "orb_azure_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "orb_azure_256.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "orb_azure_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "orb_azure_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "orb_azure_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_skull.png": {
+    "128": {
+      "file": "skull_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "skull_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "skull_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "skull_320.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "skull_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "skull_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "skull_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_skull_corrupt.png": {
+    "128": {
+      "file": "skull_corrupt_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "skull_corrupt_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "skull_corrupt_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "skull_corrupt_320.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "skull_corrupt_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "skull_corrupt_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "skull_corrupt_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_soul_aim.png": {
+    "128": {
+      "file": "soul_aim_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "soul_aim_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "soul_aim_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "soul_aim_320.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "soul_aim_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "soul_aim_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "soul_aim_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_soul_spread.png": {
+    "128": {
+      "file": "soul_spread_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "soul_spread_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "soul_spread_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "soul_spread_320.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "soul_spread_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "soul_spread_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "soul_spread_96.png",
+      "pad": 1.0
+    }
+  },
+  "res://assets/textures/bullet_star_red_c.png": {
+    "128": {
+      "file": "star_red_c_128.png",
+      "pad": 1.0
+    },
+    "160": {
+      "file": "star_red_c_160.png",
+      "pad": 1.0
+    },
+    "256": {
+      "file": "star_red_c_256.png",
+      "pad": 1.0
+    },
+    "320": {
+      "file": "star_red_c_256.png",
+      "pad": 1.0
+    },
+    "48": {
+      "file": "star_red_c_48.png",
+      "pad": 1.0
+    },
+    "64": {
+      "file": "star_red_c_64.png",
+      "pad": 1.0
+    },
+    "96": {
+      "file": "star_red_c_96.png",
+      "pad": 1.0
+    }
+  }
+}

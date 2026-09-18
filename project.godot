@@ -1,0 +1,35 @@
+; DanmakuForge「弹幕锻坊」——独立 .brg 可视化弹幕编辑器
+;
+; 独立源码树 + 独立构建产品：读写 SlimeStorm 的 .brg 格式。
+; 预览所用的运行时快照与校验方式见 VENDOR.md。
+
+config_version=5
+
+[application]
+
+config/name="DanmakuForge"
+config/version="1.0.0"
+config/description="弹幕锻坊 — .brg 可视化弹幕编辑器（SlimeStorm 格式）"
+run/main_scene="res://scenes/DanmakuForge.tscn"
+config/features=PackedStringArray("4.7", "Forward Plus")
+config/icon="res://icon.svg"
+
+[autoload]
+
+Cli="*res://scripts/tools/EditorCli.gd"
+
+[display]
+
+window/size/viewport_width=1580
+window/size/viewport_height=1240
+window/size/mode=0
+window/stretch/mode="canvas_items"
+window/stretch/aspect="keep"
+window/vsync/vsync_mode=0
+
+[rendering]
+
+renderer/rendering_method="forward_plus"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/canvas_textures/default_texture_filter=1
+environment/defaults/default_clear_color=Color(0.03, 0.02, 0.06, 1)
